@@ -29,3 +29,5 @@ vignettes/*.pdf
 .httr-oauth
 
 specdata/
+week3/makevector.R
+week3/cachemean.R
