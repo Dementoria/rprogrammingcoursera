@@ -31,3 +31,6 @@ vignettes/*.pdf
 specdata/
 week3/makevector.R
 week3/cachemean.R
+week4/Hospital_Revised_Flatfiles.pdf
+week4/hospital-data.csv
+week4/outcome-of-care-measures.csv
